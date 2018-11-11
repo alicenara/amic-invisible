@@ -1,0 +1,2 @@
+*    #Exclude everything
+!indivisible.py #Except file
